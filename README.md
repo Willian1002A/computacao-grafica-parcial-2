@@ -1,4 +1,4 @@
-# Visualizador 3D - Atividade Parcial (Módulo 4)
+# Visualizador 3D - Atividade Parcial 2
 
 Aplicação desenvolvida em Python (PyOpenGL / GLFW) para a atividade de Computação Gráfica, focando na implementação do modelo de iluminação de Phong, atenuação por distância e iluminação de estúdio de 3 pontos.
 
